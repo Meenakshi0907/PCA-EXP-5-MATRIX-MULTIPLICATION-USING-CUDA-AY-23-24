@@ -1,5 +1,4 @@
-<h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
-  Implement Matrix Multiplication using GPU.</h3>
+<h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h1>
 
 <h3>NAME: Meenakshi M</h3>
 <h3>REGISTER NO: 212221230057</h3>
